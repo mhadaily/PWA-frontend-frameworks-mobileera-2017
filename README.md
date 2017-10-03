@@ -1,2 +1,7 @@
-# PWA-frontend-frameworks-mobileera-2017
-Progressive web app across Frontend frameworks and Tools, 
+# PWA across Frontend Frameworks and Tools, in Mobile Era 2017 conference www.mobileera.rocks. 
+
+* Ember, Glimmer.js
+* React
+* Preact
+* Vue.js
+* Angular
